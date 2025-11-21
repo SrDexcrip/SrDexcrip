@@ -26,16 +26,9 @@ Soy un desarrollador con enfoque en sistemas embebidos, inteligencia artificial 
 
 ## 🧩 Actualmente trabajando en
 
-🛠 _[Describe en qué trabajas actualmente –  sistema de apoyo para Alzheimer.]_
+🛠 _Sistema de apoyo para Alzheimer.]_
 
 ---
-
-## 📍 Objetivo de mi perfil en GitHub
-
-🎯 _[Elige y completa: Ver mis repositorios / Contactar para colaborar / Mostrar mi proyecto principal / Otro]_  
-
----
-
 ## 📊 Estadísticas
 
 <p align="center">
