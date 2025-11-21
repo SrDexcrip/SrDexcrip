@@ -46,6 +46,6 @@ Soy un desarrollador con enfoque en sistemas embebidos, inteligencia artificial 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SrDexcrip&theme=github-dark&hide_border=false&border_radius=5" height="200">
 </p>
-
+<!--
 ---<img width="921" height="1666" alt="image" src="https://github.com/user-attachments/assets/6e9ba682-fae6-406a-ae42-cd290ab979fd" />
-
+-->
