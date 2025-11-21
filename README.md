@@ -10,17 +10,10 @@ Soy un desarrollador con enfoque en sistemas embebidos, inteligencia artificial 
 
 ## 🧠 Tecnologías y herramientas
 
-🔹 _[Python]_  
-🔹 _[C++]_ 
-🔹 _[Java]_
-🔹 _[javascript]_
-🔹 _[TensorFlow]_    
-🔹 _[Linux / Windows / Otros]_  
-🔹 _[Bases de datos / Frameworks / Librerías adicionales]_  
-🔹 _[SQL server]_
-🔹 _[MYSQL]_
-🔹 _[ORACLE]_
-
+🔹 _[Python]_   🔹 _[C++]_  🔹 _[Java]_ 🔹 _[javascript]_
+🔹 _[TensorFlow]_   🔹 _[Linux / Windows ]_  
+🔹 _[Bases de datos / Flask, Express, NestJS / Supabase, Firebase]_  
+🔹 _[SQL server]_ 🔹 _[MYSQL]_ 🔹 _[ORACLE]_
 ---
 
 
