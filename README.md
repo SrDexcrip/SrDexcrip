@@ -1,4 +1,4 @@
-# 👨‍💻 Sobre mí
+#  Sobre mí
 
 **Nombre:** Julio Nazario Beristain Gonzalez  
 **Rol / especialidad:** Desarrollador backend, Analista de datos
@@ -8,21 +8,21 @@ Soy un desarrollador con enfoque en sistemas embebidos, inteligencia artificial 
 
 ---
 
-## 🧠 Tecnologías y herramientas
+##  Tecnologías y herramientas
 
-🔹 _Python_       🔹 _C++_    🔹 _Java_ 🔹 _javascript_
-🔹 _TensorFlow_   🔹 _Linux / Windows _  
-🔹 _Bases de datos / Flask, Express, NestJS / Supabase, Firebase]_  
-🔹 _SQL server_   🔹 _MYSQL_  🔹 _ORACLE_
+ Python, C++, Java, javascript
+ TensorFlow, Linux / Windows  
+ Bases de datos / Flask, Express, NestJS / Supabase, Firebase 
+ SQL server, MYSQL, ORACLE
 ---
 
 
-## 🧩 Actualmente trabajando en
+##  Actualmente trabajando en
 
-🛠 _Sistema de apoyo para Alzheimer._
+  Sistema de apoyo para Alzheimer.
 
 ---
-## 📊 Estadísticas
+##  Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SrDexcrip&show_icons=true&theme=github_dark" height="160">
